@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Match Fixtures</value>
+    </caseValues>
+    <fields>
+        <label></label>
+        <name>Match_Date__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Teams_Playing__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
