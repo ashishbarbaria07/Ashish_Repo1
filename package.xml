@@ -3,6 +3,8 @@
     <types>
         <members>Books</members>
         <members>BooksTest</members>
+        <members>Bottle</members>
+        <members>BottleTest</members>
         <members>Circle</members>
         <members>CircleTest</members>
         <members>CricketManager</members>
@@ -2541,6 +2543,8 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>Ticket__c.Issue_Description__c</members>
+        <members>Ticket__c.Priority__c</members>
         <members>TimeSlot.DayOfWeek</members>
         <members>TimeSlot.EndTime</members>
         <members>TimeSlot.MaxAppointments</members>
@@ -3083,6 +3087,7 @@
         <members>StreamingChannel</members>
         <members>TableauHostMapping</members>
         <members>Task</members>
+        <members>Ticket__c</members>
         <members>TimeSlot</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
@@ -3590,6 +3595,7 @@
         <members>Task.RecurringTasks</members>
         <members>Task.TodaysTasks</members>
         <members>Task.UnscheduledTasks</members>
+        <members>Ticket__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
