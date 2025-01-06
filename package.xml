@@ -1184,6 +1184,8 @@
         <members>DigitalWallet.Status</members>
         <members>Doctor__c.Checkup_Date__c</members>
         <members>Doctor__c.Fees__c</members>
+        <members>Donation__c.Donation_Amount__c</members>
+        <members>Donation__c.Donor_Name__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -2929,6 +2931,7 @@
         <members>DeliveryEstimationSetup</members>
         <members>DigitalWallet</members>
         <members>Doctor__c</members>
+        <members>Donation__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -3499,6 +3502,7 @@
         <members>DataUsePurpose.All_DataUsePurposes</members>
         <members>DigitalWallet.DigitalWallet</members>
         <members>Doctor__c.All</members>
+        <members>Donation__c.All</members>
         <members>Employee__c.All</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <members>EngagementChannelWorkType.All_EngagementChannelWorkTypes</members>
@@ -3690,6 +3694,7 @@
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
         <members>Identity User</members>
+        <members>Kalki</members>
         <members>Leo</members>
         <members>MarketingProfile</members>
         <members>Minimum Access - API Only Integrations</members>
