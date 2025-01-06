@@ -11,6 +11,8 @@
         <members>CricketManagerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
+        <members>Intern</members>
+        <members>InternTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
         <members>Square</members>
@@ -1182,6 +1184,8 @@
         <members>DigitalWallet.Phone</members>
         <members>DigitalWallet.ProcessingMode</members>
         <members>DigitalWallet.Status</members>
+        <members>Director__c.Experience__c</members>
+        <members>Director__c.Position__c</members>
         <members>Doctor__c.Checkup_Date__c</members>
         <members>Doctor__c.Fees__c</members>
         <members>Donation__c.Donation_Amount__c</members>
@@ -2831,6 +2835,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Ashish_Custom</members>
         <members>Scientist_URL</members>
         <members>Welcome_Message</members>
         <name>CustomLabel</name>
@@ -2932,6 +2937,7 @@
         <members>DecisionTblFileImportData</members>
         <members>DeliveryEstimationSetup</members>
         <members>DigitalWallet</members>
+        <members>Director__c</members>
         <members>Doctor__c</members>
         <members>Donation__c</members>
         <members>DuplicateRecordItem</members>
@@ -3505,6 +3511,7 @@
         <members>DataUseLegalBasis.All_DataUseLegalBases</members>
         <members>DataUsePurpose.All_DataUsePurposes</members>
         <members>DigitalWallet.DigitalWallet</members>
+        <members>Director__c.All</members>
         <members>Doctor__c.All</members>
         <members>Donation__c.All</members>
         <members>Employee__c.All</members>
