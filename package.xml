@@ -1709,6 +1709,8 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>Manager__c.Department__c</members>
+        <members>Manager__c.SubManagers__c</members>
         <members>Match_Fixtures__c.Match_Date__c</members>
         <members>Match_Fixtures__c.Teams_Playing__c</members>
         <members>Math__c.Sem_1_Marks__c</members>
@@ -2983,6 +2985,7 @@
         <members>MacroAction</members>
         <members>MacroInstruction</members>
         <members>MacroUsage</members>
+        <members>Manager__c</members>
         <members>Match_Fixtures__c</members>
         <members>Math__c</members>
         <members>MessagingEndUser</members>
@@ -3223,6 +3226,7 @@
         <members>Account_Flow_1</members>
         <members>TestFlow1</members>
         <members>TestFlow2</members>
+        <members>Update_Contact_Status_Flow</members>
         <name>Flow</name>
     </types>
     <types>
@@ -3346,6 +3350,7 @@
         <members>LocationGroup-Location Group Layout</members>
         <members>LocationGroupAssignment-Location Group Assignment Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>Manager__c-Manager Layout</members>
         <members>Match_Fixtures__c-Match Fixtures Layout</members>
         <members>Math__c-Math Layout</members>
         <members>OperatingHours-Operating Hours Layout</members>
@@ -3533,6 +3538,7 @@
         <members>LegalEntity.mine</members>
         <members>Location.all_locations</members>
         <members>LocationGroup.LocationGroup</members>
+        <members>Manager__c.All</members>
         <members>Match_Fixtures__c.All</members>
         <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
@@ -3639,6 +3645,7 @@
         <members>Experience_Profile_Manager</members>
         <members>PS_1</members>
         <members>Test_Permission</members>
+        <members>Test_Permission_Set_1</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
         <name>PermissionSet</name>
     </types>
