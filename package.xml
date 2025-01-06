@@ -2818,6 +2818,8 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>Workout__c.Duration__c</members>
+        <members>Workout__c.Workout_Type__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -3114,6 +3116,7 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>Workout__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -3149,7 +3152,9 @@
         <members>Scientist__c</members>
         <members>Season_Records__c</members>
         <members>Stadium_Details__c</members>
+        <members>Ticket__c</members>
         <members>VirtualEvent__c</members>
+        <members>Workout__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -3419,6 +3424,7 @@
         <members>WorkType-Work Type Layout</members>
         <members>WorkTypeGroup-Work Type Group Layout</members>
         <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <members>Workout__c-Workout Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -3605,6 +3611,7 @@
         <members>WorkType.My_WorkTypes</members>
         <members>WorkTypeGroup.All_WorkTypeGroups</members>
         <members>WorkTypeGroup.My_WorkTypeGroups</members>
+        <members>Workout__c.All</members>
         <name>ListView</name>
     </types>
     <types>
@@ -4159,6 +4166,7 @@
         <members>Doctor__c.DocValid</members>
         <members>Math__c.Validation1</members>
         <members>Stadium_Details__c.Test_Validation_1</members>
+        <members>Workout__c.Workout_Validation_1</members>
         <name>ValidationRule</name>
     </types>
     <types>
