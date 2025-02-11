@@ -13,10 +13,12 @@
         <members>EdenGardenTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
+        <members>SkyView</members>
         <members>Square</members>
         <members>SquareTest</members>
         <members>Tester</members>
         <members>TesterTest</members>
+        <members>Twitza</members>
         <name>ApexClass</name>
     </types>
     <types>
