@@ -13,10 +13,13 @@
         <members>EdenGardenTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
+        <members>SkyView</members>
         <members>Square</members>
         <members>SquareTest</members>
+        <members>Star</members>
         <members>Tester</members>
         <members>TesterTest</members>
+        <members>Twitza</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -2995,6 +2998,7 @@
         <members>Math__c</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
+        <members>MyHome__c</members>
         <members>OperatingHours</members>
         <members>OperatingHoursHoliday</members>
         <members>Opportunity</members>
@@ -3159,6 +3163,7 @@
         <members>King__c</members>
         <members>Match_Fixtures__c</members>
         <members>Math__c</members>
+        <members>MyHome__c</members>
         <members>Player_Stats__c</members>
         <members>Queen__c</members>
         <members>Science__c</members>
@@ -3358,6 +3363,7 @@
         <members>Macro-Macro Layout</members>
         <members>Match_Fixtures__c-Match Fixtures Layout</members>
         <members>Math__c-Math Layout</members>
+        <members>MyHome__c-MyHome Layout</members>
         <members>OperatingHours-Operating Hours Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
@@ -3546,6 +3552,7 @@
         <members>Match_Fixtures__c.All</members>
         <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
+        <members>MyHome__c.All</members>
         <members>OperatingHours.All_OperatingHours</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
