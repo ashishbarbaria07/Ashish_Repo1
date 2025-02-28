@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>61.0</version>
+    <version>63.0</version>
     <types>
+        <members>Apple</members>
+        <members>AppleTest</members>
+        <members>Bit</members>
         <members>Books</members>
         <members>BooksTest</members>
         <members>Bottle</members>
@@ -27,6 +30,8 @@
         <name>ApexEmailNotifications</name>
     </types>
     <types>
+        <members>Bheem</members>
+        <members>BheemTest</members>
         <members>DoctorTrigger</members>
         <members>EngineerTrigger</members>
         <members>PlayerStatsTrigger</members>
@@ -139,6 +144,8 @@
         <members>Address.LocationType</members>
         <members>Address.ParentId</members>
         <members>Address.TimeZone</members>
+        <members>Alarm__c.EveningAlarm__c</members>
+        <members>Alarm__c.MorningAlarm__c</members>
         <members>AlternativePaymentMethod.AccountId</members>
         <members>AlternativePaymentMethod.AuditEmail</members>
         <members>AlternativePaymentMethod.BankAccountHolderType</members>
@@ -1185,6 +1192,8 @@
         <members>DigitalWallet.Phone</members>
         <members>DigitalWallet.ProcessingMode</members>
         <members>DigitalWallet.Status</members>
+        <members>Director__c.Experience__c</members>
+        <members>Director__c.Position__c</members>
         <members>Doctor__c.Checkup_Date__c</members>
         <members>Doctor__c.Fees__c</members>
         <members>Donation__c.Donation_Amount__c</members>
@@ -2849,6 +2858,7 @@
         <members>AccountContactRole</members>
         <members>Activity</members>
         <members>Address</members>
+        <members>Alarm__c</members>
         <members>AlternativePaymentMethod</members>
         <members>Animal__c</members>
         <members>ApiAnomalyEventStore</members>
@@ -2936,6 +2946,7 @@
         <members>DecisionTblFileImportData</members>
         <members>DeliveryEstimationSetup</members>
         <members>DigitalWallet</members>
+        <members>Director__c</members>
         <members>Doctor__c</members>
         <members>Donation__c</members>
         <members>DuplicateRecordItem</members>
@@ -3456,6 +3467,7 @@
         <members>Activity.MyActivities</members>
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
+        <members>Alarm__c.All</members>
         <members>AlternativePaymentMethod.AlternativePaymentMethod</members>
         <members>Animal__c.All</members>
         <members>AppointmentInvitation.All_AppointmentInvitations</members>
@@ -3513,6 +3525,7 @@
         <members>DataUseLegalBasis.All_DataUseLegalBases</members>
         <members>DataUsePurpose.All_DataUsePurposes</members>
         <members>DigitalWallet.DigitalWallet</members>
+        <members>Director__c.All</members>
         <members>Doctor__c.All</members>
         <members>Donation__c.All</members>
         <members>Employee__c.All</members>
