@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>61.0</version>
+    <version>63.0</version>
     <types>
+        <members>AccountContactManager</members>
+        <members>AccountController</members>
+        <members>AnimalLocator</members>
+        <members>AreaConverter</members>
+        <members>BankTransaction</members>
         <members>Books</members>
         <members>BooksTest</members>
         <members>Bottle</members>
         <members>BottleTest</members>
         <members>Circle</members>
         <members>CircleTest</members>
+        <members>ContactManager</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
+        <members>HealthCalculator</members>
+        <members>MyApexClass</members>
+        <members>NewHireNotifier</members>
+        <members>RandomApexClass</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
         <members>Square</members>
         <members>SquareTest</members>
+        <members>StandardObjectExample</members>
+        <members>StandardObjectExampleTest</members>
+        <members>TemperatureConverter</members>
         <members>Tester</members>
         <members>TesterTest</members>
         <name>ApexClass</name>
