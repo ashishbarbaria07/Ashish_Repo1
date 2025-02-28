@@ -14,6 +14,7 @@
         <members>CricketManagerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
+        <members>House</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
         <members>SkyView</members>
@@ -1764,6 +1765,8 @@
         <members>MessagingSession.PreviewDetails</members>
         <members>MessagingSession.StartTime</members>
         <members>MessagingSession.Status</members>
+        <members>Mobile__c.No_of_Cameras__c</members>
+        <members>Mobile__c.OS__c</members>
         <members>OperatingHours.Description</members>
         <members>OperatingHours.Name</members>
         <members>OperatingHours.OwnerId</members>
@@ -3012,6 +3015,7 @@
         <members>Math__c</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
+        <members>Mobile__c</members>
         <members>MyHome__c</members>
         <members>OperatingHours</members>
         <members>OperatingHoursHoliday</members>
@@ -3570,6 +3574,7 @@
         <members>Match_Fixtures__c.All</members>
         <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
+        <members>Mobile__c.All</members>
         <members>MyHome__c.All</members>
         <members>OperatingHours.All_OperatingHours</members>
         <members>Opportunity.AllOpportunities</members>
